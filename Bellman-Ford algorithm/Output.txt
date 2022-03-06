@@ -1,0 +1,5 @@
+Vertex   Distance from Source   Path
+0 		 0 		 0 
+1 		 5 		 0 1 
+2 		 -3 		 0 3 2 
+3 		 -4 		 0 3 

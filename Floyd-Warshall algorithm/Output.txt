@@ -1,0 +1,13 @@
+All pair shortest paths:
+		0  4  4  3  X  
+		3  0  7  6  X  
+		6  3  0  2  X  
+		4  1  1  0  X  
+		6  3  3  2  0  
+Predecessor Matrix:
+		X  4  4  1  X  
+		2  X  4  1  X  
+		2  4  X  3  X  
+		2  4  4  X  X  
+		2  4  4  5  X  
+Negative Cycle: NO
